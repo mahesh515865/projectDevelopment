@@ -55,8 +55,8 @@ button {
             <button type="submit">Login</button>   
             <input type="checkbox" checked="checked"> Remember me   
             <button type="button" class="cancelbtn"> Cancel</button>   
-            Forgot <a href="pass.html"> password? </a>
-            Forgot <a href="pass.html"> sign up </a>   
+            Forgot <a href="next.html"> password? </a>
+            Forgot <a href="nextt.html"> sign up </a>   
         </div>   
     </form>     
 </body>     
